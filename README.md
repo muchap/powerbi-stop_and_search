@@ -1,7 +1,7 @@
 # Power BI dashboard: Stop and search by Ethnicity
 
 A dashboard created in Power BI visualasing stop and search statistics in different counties in England.<br>
-[Click here to open dashboard in Power BI platform](https://app.powerbi.com/view?r=eyJrIjoiZWI0Yjc4NDktYjQyMS00ZjgyLWJmYjUtZjE1OTE1N2U2ZDIyIiwidCI6Ijk0NzIwMTYwLWYzMTgtNDI1Ni1hYWI1LTQyNDQwOTExZWQ1ZiJ9)
+[Click here to open dashboard in Power BI platform](http://bit.ly/dashsearch1)
 
 <img src="/screenshot1.jpg">
 <img src="/screenshot2.jpg">
